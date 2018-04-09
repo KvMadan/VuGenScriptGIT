@@ -55,8 +55,8 @@ Order="1_transaction__*delimiter*__2_transaction__*delimiter*__3_transaction__*d
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
+LastReplayedRunName=
+ActiveRunName=
 [Transactions]
 1_transaction=
 2_transaction=

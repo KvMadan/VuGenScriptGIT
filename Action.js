@@ -8,6 +8,8 @@
 function Action()
 {
 	web.setSocketsOption('SSL_VERSION', '2&3');
+	
+	lr.thinkTime(5);
 
 	web.url(
 		{
